@@ -1,6 +1,62 @@
 # RAG Evaluation Pipeline
 
-A comprehensive evaluation system for Retrieval-Augmented Generation (RAG) workflows that provides monitoring, tracing, and evaluation capabilities.
+## 🎯 **The Critical Challenge Most Developers Ignore: Building Robust Evaluation Pipelines**
+
+*Today we're addressing one of the most important yet overlooked aspects of LLM application development - how to properly build evaluation pipelines that actually work in production.*
+
+### **🔍 The Foundation: It Starts with Domain Expertise**
+
+**The biggest mistake?** Jumping straight into code without understanding your domain.
+
+**What you need first:**
+• **Domain Expert**: Someone who deeply understands both the data AND the users
+• **User Research**: Clear understanding of user personas, pain points, and expectations
+• **Data Understanding**: Raw data ≠ Evaluation data (this is crucial!)
+
+### **📊 Dataset Generation: The Make-or-Break Factor**
+
+**Key Insight:** Having raw data and generating evaluation datasets are completely different challenges.
+
+**Critical Requirements for Evaluation Data:**
+• **Diversity is King**: Your dataset must cover edge cases, not just happy paths
+• **Scenario Coverage**: Multiple contexts, user types, and interaction patterns
+• **Real-World Complexity**: Ambiguous queries, multi-step reasoning, contextual dependencies
+
+### **🎭 Understanding Your Use Case & User Personas**
+
+**Before building anything, ask:**
+• What's your primary use case? (Summarization, Q&A, Translation, Code Generation?)
+• What are your user personas? (Expert vs. Novice, Technical vs. Business users)
+• What scenarios will users encounter?
+
+**Scenario Diversity Examples:**
+• ✅ Questions answerable from single context
+• ✅ Questions requiring multiple contexts (cross-document reasoning)
+• ✅ Questions with no answer in provided context
+• ✅ Ambiguous questions requiring clarification
+• ✅ Domain-specific vs. general knowledge queries
+
+### **⚖️ Evaluation Approaches: Choose Your Weapon Wisely**
+
+**1. LLM-as-a-Judge**
+• Pros: Flexible, handles nuanced evaluation
+• Cons: Can be biased, expensive, inconsistent
+
+**2. Metrics-Based Evaluation**
+• Pros: Fast, consistent, objective
+• Cons: May miss semantic nuances
+
+**3. Rubric-Based (LLM-Powered)**
+• Pros: Structured, domain-specific, explainable
+• Cons: Requires careful rubric design
+
+**💡 Pro Tip:** Use a combination approach - metrics for speed, LLM-as-judge for quality, rubrics for consistency.
+
+---
+
+## **Our Solution: A Production-Ready Evaluation Framework**
+
+A comprehensive evaluation system for Retrieval-Augmented Generation (RAG) workflows that addresses all these challenges with monitoring, tracing, and multi-methodology evaluation capabilities.
 
 ## 🚀 Features
 
