@@ -1,0 +1,4 @@
+# file: C:\RAG\Qdrant\src\dataset_generator\ragas_generator.py
+# hypothesis_version: 6.148.7
+
+[0.0, 0.3, 0.5, 0.7, 0.8, 1.0, 100, 'analytical', 'answer', 'comparative', 'completeness', 'consistency', 'context', 'contexts', 'csv', 'data', 'dataset_id', 'diversity', 'diversity_threshold', 'domain', 'edge_count', 'edges', 'export_timestamp', 'factual', 'format', 'generation_method', 'ground_truth', 'ground_truth_answers', 'how', 'inferential', 'json', 'jsonl', 'knowledge_graph', 'metadata', 'node_count', 'nodes', 'parquet', 'parquet_compatible', 'question', 'question_types', 'questions', 'ragas_synthetic', 'ragas_transform', 'related_to', 'relevance', 'schema', 'source', 'synthetic', 'target', 'type', 'what', 'when', 'where', 'who', 'why', '|']

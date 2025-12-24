@@ -1,0 +1,4 @@
+# file: C:\Users\arz5586\AppData\Roaming\Python\Python312\site-packages\oauthlib\oauth1\rfc5849\endpoints\access_token.py
+# hypothesis_version: 6.148.7
+
+[200, 401, 'Content-Type', 'GET', 'Missing verifier.', 'Valid client:, %s', 'Valid signature:, %s', 'Valid token:, %s', 'Valid verifier:, %s', 'client', 'oauth_token', 'oauth_token_secret', 'resource_owner', 'signature', 'verifier']

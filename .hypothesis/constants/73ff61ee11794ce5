@@ -1,0 +1,4 @@
+# file: C:\Users\arz5586\AppData\Roaming\Python\Python312\site-packages\google\resumable_media\_download.py
+# hypothesis_version: 6.148.7
+
+['0-{:d}', 'Expected', 'GET', 'Received', 'bytes */0', 'bytes=', 'content-length', 'end_byte', 'md5', 'start_byte', 'total_bytes', 'transfer-encoding', '{:d}', '{:d}-', '{:d}-{:d}']

@@ -1,0 +1,4 @@
+# file: C:\Users\arz5586\AppData\Roaming\Python\Python312\site-packages\oauthlib\oauth2\rfc6749\clients\base.py
+# hypothesis_version: 6.148.7
+
+[128, '+', '-', '/', '=', 'Bearer', 'Content-Type', 'GET', 'MAC', 'S256', '^[A-Zaa-z0-9-._~]', '_', 'access_token', 'ascii', 'auth_header', 'body', 'code', 'expires_at', 'expires_in', 'mac_algorithm', 'mac_key', 'plain', 'query', 'refresh_token', 'token_type']

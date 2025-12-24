@@ -1,0 +1,4 @@
+# file: C:\Users\arz5586\AppData\Roaming\Python\Python312\site-packages\oauthlib\uri_validate.py
+# hypothesis_version: 6.148.7
+
+['%(pchar)s*', '%(pchar)s+', '(?: %(DIGIT)s )*', '(?: / %(segment)s )*', '[\\x30-\\x39A-Fa-f]', '[\\x30-\\x39]', '[\\x41-\\x5A\\x61-\\x7A]']

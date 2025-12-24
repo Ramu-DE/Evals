@@ -1,0 +1,4 @@
+# file: C:\Users\arz5586\AppData\Roaming\Python\Python312\site-packages\oauthlib\oauth1\rfc5849\signature.py
+# hypothesis_version: 6.148.7
+
+[443, 65535, ' signature method', '%20', '&', '/', 'SHA-1', 'SHA-256', 'SHA-512', 'ascii', 'authorization', 'http', 'https', 'missing host', 'missing scheme', 'oauth_', 'oauth_signature', 'port out of range', 'realm', 'utf-8', '{}={}']

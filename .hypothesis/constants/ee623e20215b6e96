@@ -1,0 +1,4 @@
+# file: C:\RAG\Qdrant\src\integration_layer\integration_manager.py
+# hypothesis_version: 6.148.7
+
+[0.0, 0.5, 1.0, 10.0, 60.0, 100.0, 400, 'Authorization', 'GET', 'PATCH', 'POST', 'PUT', 'access_token', 'api_key', 'basic', 'bearer', 'data', 'headers', 'metadata', 'oauth', 'password', 'status_code', 'url', 'username']

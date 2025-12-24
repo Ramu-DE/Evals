@@ -1,0 +1,4 @@
+# file: C:\RAG\Qdrant\config.py
+# hypothesis_version: 6.148.7
+
+[100, 5000, '.env', 'INFO', 'utf-8']

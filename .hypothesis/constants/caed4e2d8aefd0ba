@@ -1,0 +1,4 @@
+# file: C:\RAG\Qdrant\src\vector_store\qdrant_store.py
+# hypothesis_version: 6.148.7
+
+[1.0, 30.0, 'No vectors provided', 'collection_id', 'collections_count', 'config', 'cosine', 'delete', 'dot', 'error', 'euclidean', 'healthy', 'info', 'message', 'operation', 'points_count', 'recreate', 'status', 'success', 'timestamp', 'url', 'vectors_count']

@@ -1,0 +1,4 @@
+# file: C:\RAG\Qdrant\src\evaluation_engine\ragas_engine.py
+# hypothesis_version: 6.148.7
+
+[0.0, 0.05, 0.1, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 1.0, 100, 1000, '.', 'OPENAI_API_KEY', 'answer', 'answer_correctness', 'answer_relevancy', 'answer_similarity', 'average', 'because', 'context', 'context_count', 'context_precision', 'context_recall', 'contexts', 'criteria_met', 'criteria_scores', 'error', 'evaluation_mode', 'faithfulness', 'generation_quality', 'ground_truth', 'however', 'id', 'judgments', 'metadata', 'mock_mode', 'num_criteria', 'num_responses', 'overall_performance', 'overall_score', 'query', 'question', 'response', 'response_id', 'response_length', 'retrieval_quality', 'score', 'scores', 'therefore']

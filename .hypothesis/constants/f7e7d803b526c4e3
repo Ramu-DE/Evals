@@ -1,0 +1,4 @@
+# file: C:\Users\arz5586\AppData\Roaming\Python\Python312\site-packages\google_auth_oauthlib\helpers.py
+# hypothesis_version: 6.148.7
+
+['3pi', 'access_token', 'auth_uri', 'client_id', 'client_secret', 'expires_at', 'id_token', 'installed', 'r', 'refresh_token', 'scope', 'token_info_url', 'token_uri', 'web']

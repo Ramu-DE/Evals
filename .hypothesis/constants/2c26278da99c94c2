@@ -1,0 +1,4 @@
+# file: C:\Users\arz5586\AppData\Roaming\Python\Python312\site-packages\oauthlib\oauth2\rfc6749\endpoints\pre_configured.py
+# hypothesis_version: 6.148.7
+
+['Bearer', 'access_token', 'authorization_code', 'client_credentials', 'code', 'none', 'password', 'refresh_token', 'token']

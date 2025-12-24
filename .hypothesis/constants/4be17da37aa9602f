@@ -1,0 +1,4 @@
+# file: C:\RAG\Qdrant\src\workflow_orchestrator\interfaces.py
+# hypothesis_version: 6.148.7
+
+['completed', 'failed', 'paused', 'pending', 'running']

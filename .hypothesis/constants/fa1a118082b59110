@@ -1,0 +1,4 @@
+# file: C:\Users\arz5586\AppData\Roaming\Python\Python312\site-packages\oauthlib\oauth1\rfc5849\endpoints\request_token.py
+# hypothesis_version: 6.148.7
+
+[200, 401, 'Content-Type', 'GET', 'Valid callback: %s.', 'Valid client: %s.', 'Valid realm: %s.', 'Valid signature: %s.', 'callback', 'client', 'oauth_token', 'oauth_token_secret', 'realm', 'signature', 'true']

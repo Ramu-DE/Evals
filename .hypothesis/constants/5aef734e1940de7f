@@ -1,0 +1,4 @@
+# file: C:\Users\arz5586\AppData\Roaming\Python\Python312\site-packages\oauthlib\oauth2\rfc6749\grant_types\implicit.py
+# hypothesis_version: 6.148.7
+
+[302, 'Location', 'client_id', 'redirect_uri', 'request', 'response_type', 'scope', 'state', 'token']

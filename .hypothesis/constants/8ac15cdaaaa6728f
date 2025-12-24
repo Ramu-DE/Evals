@@ -1,0 +1,4 @@
+# file: C:\Users\arz5586\AppData\Roaming\Python\Python312\site-packages\google\resumable_media\_helpers.py
+# hypothesis_version: 6.148.7
+
+[0.001, 2.0, 1000, ',', '=', 'Expected one of', '_usingExtension', 'content-encoding', 'content-range', 'crc-32c', 'crc32c', 'crcmod.crcmod', 'generation', 'gzip', 'md5', 'md5Hash', 'range', 'utf-8', 'x-goog-generation', 'x-goog-hash']

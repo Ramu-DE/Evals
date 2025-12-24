@@ -1,0 +1,4 @@
+# file: C:\Users\arz5586\AppData\Roaming\Python\Python312\site-packages\oauthlib\oauth1\rfc5849\endpoints\resource.py
+# hypothesis_version: 6.148.7
+
+['GET', 'Valid client: %s', 'Valid realm: %s', 'Valid signature: %s', 'Valid token: %s', 'client', 'realm', 'resource_owner', 'signature']

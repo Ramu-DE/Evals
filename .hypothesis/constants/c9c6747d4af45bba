@@ -1,0 +1,4 @@
+# file: C:\Users\arz5586\AppData\Roaming\Python\Python312\site-packages\requests_oauthlib\oauth2_session.py
+# hypothesis_version: 6.148.7
+
+['Accept', 'Content-Type', 'GET', 'Invoking hook %s.', 'Obtained token %s.', 'POST', 'Request body was %s', 'Request url was %s', 'S256', 'access_token', 'access_token_request', 'application/json', 'auth', 'client_id', 'client_secret', 'code_challenge', 'code_verifier', 'data', 'params', 'password', 'plain', 'protected_request', 'refresh_token', 'token', 'username']

@@ -1,0 +1,4 @@
+# file: C:\Users\arz5586\AppData\Roaming\Python\Python312\site-packages\oauthlib\oauth2\rfc8628\clients\device.py
+# hypothesis_version: 6.148.7
+
+['client_id', 'client_secret', 'grant_type', 'include_client_id', 'scope']

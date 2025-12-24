@@ -1,0 +1,4 @@
+# file: C:\Users\arz5586\AppData\Roaming\Python\Python312\site-packages\oauthlib\oauth1\rfc5849\endpoints\authorization.py
+# hypothesis_version: 6.148.7
+
+[200, 302, 'Content-Type', 'GET', 'Location', 'oauth_token', 'oauth_verifier', 'oob', 'resource_owner_key']

@@ -1,0 +1,4 @@
+# file: C:\RAG\Qdrant\src\evaluation_engine\interfaces.py
+# hypothesis_version: 6.148.7
+
+['binary', 'llm_judge', 'mean', 'numerical', 'rag_triad']

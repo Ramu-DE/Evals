@@ -1,0 +1,4 @@
+# file: C:\Users\arz5586\AppData\Roaming\Python\Python312\site-packages\oauthlib\oauth2\rfc6749\endpoints\introspect.py
+# hypothesis_version: 6.148.7
+
+[200, 'Cache-Control', 'Content-Type', 'POST', 'Pragma', 'access_token', 'active', 'application/json', 'no-cache', 'no-store', 'refresh_token']

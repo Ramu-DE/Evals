@@ -1,0 +1,4 @@
+# file: C:\Users\arz5586\AppData\Roaming\Python\Python312\site-packages\google_auth_oauthlib\flow.py
+# hypothesis_version: 6.148.7
+
+[128, 8080, '-._~', '200 OK', '=', 'Content-type', 'S256', 'access_type', 'auth_uri', 'client_secret', 'code_challenge', 'code_verifier', 'http', 'http://{}:{}', 'http://{}:{}/', 'https', 'installed', 'localhost', 'offline', 'r', 'redirect_uri', 'token_uri', 'utf-8', 'web']

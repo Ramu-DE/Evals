@@ -1,0 +1,4 @@
+# file: C:\Users\arz5586\AppData\Roaming\Python\Python312\site-packages\oauthlib\oauth1\rfc5849\endpoints\base.py
+# hypothesis_version: 6.148.7
+
+[', ', '1.0', 'Authorization', 'Content-Type', 'https://', 'oauth_callback', 'oauth_consumer_key', 'oauth_nonce', 'oauth_signature', 'oauth_timestamp', 'oauth_token', 'oauth_verifier', 'oauth_version', 'realm']

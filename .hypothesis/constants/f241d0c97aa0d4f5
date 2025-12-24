@@ -1,0 +1,4 @@
+# file: C:\RAG\Qdrant\src\tracing_system\opik_tracer.py
+# hypothesis_version: 6.148.7
+
+[0.0, 0.001, 1.0, -100, 300, 1000, '_error_history', '_triggered_alerts', 'active', 'alert', 'alert_name', 'completed', 'current_value', 'duration_ms', 'eq', 'error', 'events', 'generic', 'gt', 'info', 'level', 'lt', 'message', 'metadata', 'metric_type', 'operation_name', 'opik_trace', 'rag-evaluation', 'start_time', 'status', 'threshold', 'timestamp', 'type']
