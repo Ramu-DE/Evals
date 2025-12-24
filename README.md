@@ -81,7 +81,7 @@ src/
 
 tests/                    # Comprehensive test suite
 demos/                    # Example usage and demonstrations
-.kiro/specs/             # Feature specifications and requirements
+
 ```
 
 ## 🛠️ Installation & Setup
