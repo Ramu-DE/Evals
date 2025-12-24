@@ -18,7 +18,7 @@
 **Key Insight:** Having raw data and generating evaluation datasets are completely different challenges.
 
 **Critical Requirements for Evaluation Data:**
-• **Diversity is King**: Your dataset must cover edge cases, not just happy paths
+• **Diversity is King**: Your dataset must cover edge cases, not just known paths
 • **Scenario Coverage**: Multiple contexts, user types, and interaction patterns
 • **Real-World Complexity**: Ambiguous queries, multi-step reasoning, contextual dependencies
 
@@ -30,11 +30,11 @@
 • What scenarios will users encounter?
 
 **Scenario Diversity Examples:**
-• ✅ Questions answerable from single context
-• ✅ Questions requiring multiple contexts (cross-document reasoning)
-• ✅ Questions with no answer in provided context
-• ✅ Ambiguous questions requiring clarification
-• ✅ Domain-specific vs. general knowledge queries
+✅ Questions answerable from single context
+✅ Questions requiring multiple contexts (from two different pages(in pdf))
+✅ Questions with no answer in provided context
+✅ Ambiguous questions requiring clarification
+✅ Domain-specific vs. general knowledge queries
 
 ### **⚖️ Evaluation Approaches: Choose Your Weapon Wisely**
 
